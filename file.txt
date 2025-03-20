@@ -1,1 +1,3 @@
 Kelompok 1 SI4607
+
+Perubahan untuk backlog fitur homepage
